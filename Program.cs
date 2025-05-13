@@ -15,8 +15,7 @@ namespace ChatBot
           new voice_greeting() { };
             new AsciiArt() { };
             new UserInterface() { };
-            new Answers_Function() { };
-            new memoryStorage()
+            new Answers_Function() { };       
         }
 
 
